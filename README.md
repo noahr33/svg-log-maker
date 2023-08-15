@@ -23,8 +23,8 @@ Clone or Fork the repository to your computer. Enter `npm i` to install dependan
 
 ## Screenshot
 
-![screenshot]
+![screenshot](./assets/SVG-logo-generator.gif)
 
 ## Video Walkthrough
 
-[Link to Walkthrough]
+[Link to Walkthrough](https://drive.google.com/file/d/1HD1uDw_TGsLkseiGNDWXOTqVCrh0ZW-S/view)
